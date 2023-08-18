@@ -1,8 +1,8 @@
 # Aman-khan
 <h1 align="center">Hi 👋, I'm Aman khan</h1>
-<h3 align="center">A passionate frontend developer and a Data Analyst from India</h3>
+<h3 align="center">A passionate frontend developer and A Data Analyst with some ML from India</h3>
 
-- 🌱 I’m currently learning **Flask and Vue**
+- 🌱 I’m currently learning **Tensorflow and Vue**
 
 - 🤝 I’m looking for help in **Java**
 
