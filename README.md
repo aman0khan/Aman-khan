@@ -45,9 +45,6 @@ I'm a passionate **Data Scientist** and **Frontend Developer** from India, speci
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
 ### 📈 Data Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
@@ -63,18 +60,13 @@ I'm a passionate **Data Scientist** and **Frontend Developer** from India, speci
 
 ### 🌐 Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🔧 Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
 ---
 
 ## 🏆 Featured Projects
@@ -96,24 +88,6 @@ I'm a passionate **Data Scientist** and **Frontend Developer** from India, speci
 - Visualized SoH trends through comprehensive Power BI dashboards
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman0khan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman0khan&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aman0khan&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏅 Certifications
 
 - 🥇 **HackerRank SQL Certifications** (Basic, Intermediate, Advanced) - Top 10% globally
@@ -131,7 +105,6 @@ I'm a passionate **Data Scientist** and **Frontend Developer** from India, speci
 ## 💡 Current Focus
 
 - 🔬 Advancing in **Deep Learning** with TensorFlow
-- 🌐 Exploring **Vue.js** for modern web applications
 - 📚 Studying **MLOps** for production-ready ML systems
 - 🚀 Working on **Time-Series Forecasting** projects
 
@@ -143,16 +116,8 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aman0150183)
-
 **"Turning data into insights, one algorithm at a time!"** ✨
 
 </div>
 
 ---
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/aman0khan/count.svg)
-
-</div>
